@@ -1,70 +1,167 @@
-**Privacy Policy**
+# Privacy Policy
 
-This privacy policy applies to the Sky Simple AAC app (hereby referred to as "Application") for mobile devices that was created by Kneil Christian Siquete (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
+**App Name:** Sky Simple AAC
+**Developer:** Kneil Christian Siquete
+**Contact:** kctstech@gmail.com
+**Effective Date:** April 5, 2026
+**Last Updated:** April 5, 2026
 
-**Information Collection and Use**
+---
 
-The Application collects information when you download and use it. This information may include information such as
+## 1. Overview
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+Sky Simple AAC is an Augmentative and Alternative Communication (AAC) board application designed to help nonverbal individuals, including children with autism, communicate through visual tiles. This Privacy Policy explains how we handle your information when you use our app.
 
-The Application does not gather precise information about the location of your mobile device.
+We are committed to protecting your privacy. **Sky Simple AAC does not collect, transmit, or share any personal data with us or any third parties**, with the limited exceptions described in this policy (subscription billing and RevenueCat).
 
-The Application does not use Artificial Intelligence (AI) technologies to process your data or provide features.
+---
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+## 2. Information We Collect
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to userId. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+### 2.1 Information You Provide (Stored Locally Only)
 
-**Third Party Access**
+All of the following is stored **only on your device** and never transmitted to our servers:
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+- **Tiles and categories** — Labels, colors, emojis, and order preferences
+- **Photos** — Images selected from your gallery or captured with the camera
+- **Voice recordings** — Custom audio recordings for tiles
+- **Game statistics** — Learning game accuracy data
+- **App settings** — Speech rate and other preferences
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+### 2.2 Information Collected by Third-Party Services
 
-*   [RevenueCat](https://www.revenuecat.com/privacy)
+#### RevenueCat (Subscription Management)
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+We use **RevenueCat** to manage in-app subscriptions and purchases. RevenueCat may collect:
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+- A **randomly generated anonymous user identifier** (no name or email)
+- **Purchase transaction data** — subscription status, purchase dates, product identifiers
+- **Device information** — device type, OS version, app version (for billing purposes)
 
-**Opt-Out Rights**
+RevenueCat does **not** collect your name, email address, or any personally identifiable information unless you explicitly provide it. All purchase data is processed by Apple App Store or Google Play Store.
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+RevenueCat's Privacy Policy: [https://www.revenuecat.com/privacy](https://www.revenuecat.com/privacy)
 
-**Data Retention Policy**
+#### Apple App Store / Google Play Store
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at kctstech@gmail.com and they will respond in a reasonable time.
+All payment processing is handled by Apple or Google. We do not have access to your payment card information. Please refer to their privacy policies:
 
-**Children**
+- Apple: [https://www.apple.com/legal/privacy](https://www.apple.com/legal/privacy)
+- Google: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+---
 
-The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (kctstech@gmail.com) so that they will be able to take the necessary actions.
+## 3. How We Use Information
 
-**Security**
+We do not use your personal information for any purpose. The anonymous subscription data collected by RevenueCat is used solely to:
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+- Verify your subscription status
+- Provide access to premium features
+- Process refunds or restore purchases
 
-**Changes**
+---
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+## 4. Device Permissions
 
-This privacy policy is effective as of 2026-04-05
+The app requests the following permissions to provide its core features:
 
-**Your Consent**
+| Permission | Purpose | When Requested |
+|---|---|---|
+| **Camera** | Taking photos for tile images | When you choose to take a photo |
+| **Photo Library** | Selecting photos for tile images | When you choose to pick a photo |
+| **Microphone** | Recording custom voice sounds for tiles | When you choose to record audio |
 
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+You may deny any permission. The app will continue to function with reduced functionality.
 
-**Contact Us**
+---
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at kctstech@gmail.com.
+## 5. Children's Privacy (COPPA & GDPR-K)
 
-* * *
+Sky Simple AAC is designed for use **by parents, caregivers, and therapists** on behalf of nonverbal children. The app itself is not directed at children independently — it requires adult configuration.
 
-This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+We comply with the **Children's Online Privacy Protection Act (COPPA)** and **GDPR-K**:
+
+- We do **not** knowingly collect personal information from children under 13
+- We do **not** display advertisements
+- We do **not** include behavioral tracking or analytics SDKs
+- The anonymous RevenueCat identifier is not linked to any child's identity
+- All communication tile data remains on the device under the parent or guardian's control
+
+If you believe we have inadvertently collected information from a child, please contact us at kctstech@gmail.com and we will promptly address it.
+
+---
+
+## 6. Data Sharing and Disclosure
+
+We do not sell, trade, or share your personal information. We may disclose information only:
+
+- **To RevenueCat** — for subscription management as described above
+- **To Apple/Google** — for payment processing
+- **As required by law** — if compelled by a valid legal process
+
+---
+
+## 7. Data Retention and Deletion
+
+### App Data (Local)
+
+All app data (tiles, photos, recordings, settings) is stored on your device. You can delete it at any time:
+
+- **iOS:** Settings → General → iPhone/iPad Storage → Sky Simple AAC → Delete App
+- **Android:** Settings → Apps → Sky Simple AAC → Storage → Clear Data
+
+### RevenueCat Data
+
+To request deletion of your RevenueCat anonymous identifier and associated purchase records, contact us at kctstech@gmail.com and we will submit a deletion request on your behalf. Note: Apple and Google retain transaction records independently per their own policies.
+
+---
+
+## 8. Data Security
+
+- All app data is stored locally using the device's built-in secure storage
+- No personal data is transmitted over the internet by our app
+- Subscription data transmitted to RevenueCat is encrypted in transit (HTTPS)
+
+---
+
+## 9. Third-Party Services Summary
+
+| Service | Purpose | Data Shared | Their Privacy Policy |
+|---|---|---|---|
+| **RevenueCat** | Subscription management | Anonymous user ID, purchase data | [revenuecat.com/privacy](https://www.revenuecat.com/privacy) |
+| **Apple App Store** | Payment processing (iOS) | Payment info (to Apple only) | [apple.com/legal/privacy](https://www.apple.com/legal/privacy) |
+| **Google Play Store** | Payment processing (Android) | Payment info (to Google only) | [policies.google.com/privacy](https://policies.google.com/privacy) |
+| **Apple TTS / Google TTS** | Text-to-speech | None — processed on-device | — |
+
+---
+
+## 10. Your Rights (GDPR)
+
+If you are located in the European Economic Area (EEA), you have the right to:
+
+- **Access** — Request a copy of data we hold about you
+- **Rectification** — Request correction of inaccurate data
+- **Erasure** — Request deletion of your data
+- **Portability** — Request your data in a portable format
+- **Objection** — Object to processing of your data
+
+Since we do not collect personal data directly, these rights primarily apply to the anonymous RevenueCat identifier. To exercise any of these rights, contact us at kctstech@gmail.com.
+
+---
+
+## 11. Changes to This Policy
+
+We may update this Privacy Policy from time to time. When we do, we will update the **Last Updated** date at the top of this page. We encourage you to review this policy periodically. Continued use of the app after changes constitutes acceptance of the updated policy.
+
+---
+
+## 12. Contact Us
+
+If you have any questions, concerns, or requests regarding this Privacy Policy, please contact:
+
+**Kneil Christian Siquete**
+Email: kctstech@gmail.com
+
+---
+
+*Sky Simple AAC — Helping every child find their voice.*
