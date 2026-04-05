@@ -2,6 +2,14 @@
 ---
 @import "{{ site.theme }}";
 
-h1 {
+.page-header {
+  display: none;
+}
+
+.site-header {
+  display: none;
+}
+
+header {
   display: none;
 }
