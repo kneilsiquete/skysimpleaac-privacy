@@ -1,1 +1,6 @@
-header { display: none; }
+---
+@import "{{ site.theme }}";
+
+h1 {
+  display: none;
+}
