@@ -89,6 +89,18 @@ We comply with the **Children's Online Privacy Protection Act (COPPA)** and **GD
 
 If you believe we have inadvertently collected information from a child, please contact us at kctstech@gmail.com and we will promptly address it.
 
+### 5.1 Parental Rights
+
+Parents and guardians have full control over their child's data:
+
+- **Review** — All tiles, photos, recordings, and settings are visible and accessible directly within the app
+- **Delete** — Parents can remove any custom tile, photo, or recording from within the app at any time
+- **Full removal** — Uninstalling the app removes all locally stored data from the device
+- **Subscription data** — Parents can request deletion of the anonymous RevenueCat identifier by contacting us at kctstech@gmail.com
+- **Permissions** — Parents can revoke camera, photo library, or microphone permissions at any time through the device's system settings
+
+No account or login is required to use the app. There is no data stored on external servers that is linked to your child's identity.
+
 ---
 
 ## 6. Data Sharing and Disclosure
